@@ -18,3 +18,9 @@ Logical thinking, an "end-to-end view" as well as abstraction skills characteriz
 Join our team - we are looking forward to you!
 
 Source to be found [here]( https://sofdcar.de/language/en/sofdcar-hackathon-ii-2/)
+
+
+| **Intelligent Greeting Scenario** | **DATA + DEVICES** |
+| --- | --- |
+| **Description:** When approaching a vehicle, passengers should be greeted in a situation-dependent manner. Designing custom greeting scenarios with logic, involving various sensors and actuators in the vehicle.  | **Data / Technologies / HW:**<br>End-to-end chain from simulation to the vehicle<br>How can the user be involved in selecting different variants?<br>How can we integrate the external display?<br>How can we integrate the webcam + AI software? |
+| **Questions to be Investigated:**<br>- How can the end-to-end chain be extended to the vehicle?<br>- How can different vehicle variants and functions be supported?  | **SW / HW Provided:**<br>Integration variant management tool (TPLE), rapid prototyping development environment (digital.auto), and Eclipse Runtime (KUKSA / Velocitas)<br>Vehicle Signal Specification (VSS)<br>Mercedes-Benz EQS development vehicle<br>External display for the B-pillar<br>Webcam including Landing AI development environment |
