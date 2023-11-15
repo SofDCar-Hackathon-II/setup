@@ -43,8 +43,8 @@ python main.py
 
 ## Contributors
 
-- Karthik Rajendran
-- Vikneshwara Kumar
-- Mandar Kharde
-- Sai Deepika Indraganti
-- Chandrashekar Rathod
+- Karthik Rajendran (karthik.bengaluru95@gmail.com)
+- Vikneshwara Kumar (Vikneshwara.kumar@gmail.com)
+- Mandar Kharde (mandarkharde13@gmail.com)
+- Sai Deepika Indraganti (saideepika.indraganti@gmail.com)
+- Chandrashekar Rathod (chandrathod88@gmail.com)
